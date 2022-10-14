@@ -1,0 +1,15 @@
+0001,Youtube,920,https://www.youtube.com/,youtube,videos,online
+0002,Netflix,810,https://www.netflix.com/,netflix,videos,streaming
+0003,Usp,950,https://www.usp.br/,usp,ensino,tecnologia,ciencia
+0004,Icmc,999,https://www.icmc.com.br/,usp,matematica,computacao,estatistica,dados
+0005,Facebook,701,https://facebook.com/,rede social,amigos
+0006,MercadoLivre,200,https://mercadolivre.com.r/,compras,tecnologia,online
+0007,yahoo,100,https://wwww.yahoo.com/,busca,online
+0008,Amazon,1000,https://www.amazon.com.br/,compras,livros,tecnologia,online,streaming
+0009,Twitter,0,www.twitter.com/,rede social,odio,discordia
+0010,Wikipedia,925,www.wikipedia.com.br/,busca,conhecimento,gratis,online
+0011,Whatsapp,850,www.uatizap.com/,rede social,comunicacao,amigos,online
+0012,Telegram,998,www.telegram.com.br/,amigos,usp,online,rede social,russos
+0013,Pinterest,727,www.pinterest.com/,fotos,rede social,online
+0014,Ebay,703,www.ebay.com/,compras,online
+0015,Tidia,750,www.tidia.com.br/,usp,ensino,online
